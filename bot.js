@@ -10,7 +10,7 @@ function respond() {
       botRegexP = /^\/PDL/i; botRegexTw = /^\/twitch/i; botRegexSb = /^\/sub/; botRegexSh = /^\/shrug/; botRegexWk = /^\/users/; botRegexCC = /^\/cc/;
       botRegexSiege = /^\/siege/; botRegexOW = /^\/ratings/;
       botRegexSlut = /^\/slut/; botRegexStop = /^\/stop/;
-      botRegexProp = /^\/prop/;botRegexKys = /^\/kys/; botRegexSpicy = /^\/spicy/; botRegexBrye = /^\/brye/;
+      botRegexProp = /^\/prop/; botRegexKys = /^\/kys/; botRegexSpicy = /^\/spicy/; botRegexBrye = /^\/brye/;
       botRegexGian = /^\/gian/; botRegexScrotes = /^\/scrotes/; botRegexShaki = /^\/shaki/;
       botRegexDaf = /^\/dafuq/; botRegexMA32 = /^\/pending/; botRegexTrade = /^\/trade/; botRegexIce = /^\/icy/; botRegexIce2 = /^\/icy2/;
       botRegexIce3 = /^\/icy3/; botRegexJohnny = /^\/johnny time/; botRegexJoe = /^\/joeee flaccooo/; botRegexLost = /^\/I lost/;
