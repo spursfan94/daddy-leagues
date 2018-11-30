@@ -164,7 +164,7 @@ function respond() {
   }
   else if(request.text && botRegexRules.test(request.text)) {
     this.res.writeHead(200);
-    postMessage("https://docs.google.com/document/d/1f8pY_yH6Qk4j04vyFFG-GbEEPL1N1zE7jSJU84aU0cI/edit?usp=sharing");
+    postMessage("http://daddyleagues.com/rml2018/rules");
     this.res.end();
   }
   else if(request.text && botRegexGTA.test(request.text)) {
